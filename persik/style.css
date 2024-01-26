@@ -5,3 +5,11 @@ body {
 A {
   color: white;
 }
+
+A:active {
+  color: white;
+}
+
+A:visited {
+  color: white;
+}
