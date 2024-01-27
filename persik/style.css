@@ -13,3 +13,7 @@ A:active {
 A:visited {
   color: white;
 }
+
+img { 
+border-radius: 7px;
+}
