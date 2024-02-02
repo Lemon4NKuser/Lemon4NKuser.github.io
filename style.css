@@ -6,6 +6,10 @@
 
 /*! normalize.css v2.1.3 | MIT License | git.io/normalize */
 
+A {
+	text-decoration: none;
+}
+
 body {
 backgroud: 673B3C
 }
