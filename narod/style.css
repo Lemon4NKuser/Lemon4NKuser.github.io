@@ -1,0 +1,85 @@
+.telegram {
+	background: #404861;
+	border-radius: 100px;
+	margin-left: 17px;
+	cursor: pointer;
+	height: 150px;
+	width: 150px;
+	border: 0px;
+}
+
+.discord {
+	background: #404861;
+	border-radius: 100px;
+	margin-left: 17px;
+    cursor: pointer;
+	height: 150px;
+	width: 150px;
+	border: 0px;
+}
+
+.vk {
+	background: #404861;
+	margin-left: 17px;
+	margin-bottom: 40px;
+	border-radius: 100px;
+    cursor: pointer;
+	height: 150px;
+	width: 150px;
+	border: 0px;
+}
+
+::selection {
+	background: #404861;
+	color: #ffffff;
+}
+
+body {
+	background: #303546;
+}
+
+#osnova1 {
+	display: flex;
+	flex-direction: column;
+	background: #404861;
+	margin-left: 20px;
+	border-radius: 30px;
+	overflow: hidden;
+}
+
+#osnova2 {
+	display: flex;
+	flex-direction: column;
+	background: #404861;
+	margin-top: 35px;
+	margin-left: 20px;
+	border-radius: 30px;
+	overflow: hidden;
+}
+
+#osnova3 {
+    display: flex;
+	flex-direction: column;
+	background: #404861;
+	margin-top: 35px;
+	margin-left: 20px;
+	margin-bottom: 50px;
+	border-radius: 30px;
+	overflow: hidden;
+}
+
+.extra {
+	cursor: default;
+	font-family: monospace;
+	color: white;
+	font-size: 70px;
+	margin-bottom: 20px;
+}
+
+.text {
+	cursor: default;
+	font-family: monospace;
+	color: white;
+	font-weight: 50;
+	font-size: 40px;	
+}
