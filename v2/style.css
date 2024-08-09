@@ -1,0 +1,18 @@
+.link1:hover {
+	color: #b8ffa3;
+}
+
+.link1 {
+	color: #ffffff;
+	font-family: monospace;
+	font-weight: bold;
+	font-size: 200%;
+	margin-left: 15px;
+	margin-right: 15px;
+	text-decoration: none;
+	transition: color 0.3s;
+}
+
+body {
+	background: #1e1e1e;
+}
