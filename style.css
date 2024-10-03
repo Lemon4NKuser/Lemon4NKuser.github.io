@@ -50,6 +50,7 @@ h1 {
     margin-right: 15px; 
     background-color: #242424; 
     padding: 15px; 
+    user-select: none;
     border-radius: 8px; 
 }
 .feature-block div {
