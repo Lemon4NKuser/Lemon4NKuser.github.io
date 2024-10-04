@@ -84,7 +84,7 @@ p {
 }
     
 @media screen and (max-width: 768px) {
-    .minecraft-image {
+    .image-section {
         display: none;
     }
 }
