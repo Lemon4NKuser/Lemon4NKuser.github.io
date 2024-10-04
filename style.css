@@ -51,7 +51,7 @@ h1 {
     background-color: #151515; 
     padding: 15px; 
     user-select: none;
-    border-radius: 8px; 
+    border-radius: 12px; 
 }
 .feature-block div {
     flex-grow: 1; 
